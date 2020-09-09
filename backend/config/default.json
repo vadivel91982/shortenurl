@@ -1,0 +1,5 @@
+{
+    "ENVMODE": "development",
+    "Version": "1.0.0.1",
+    "baseURL": "http://localhost:3000"
+}
